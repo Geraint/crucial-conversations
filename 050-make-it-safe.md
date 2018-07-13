@@ -1,6 +1,6 @@
 # Make It Safe
 
-How to make it safe to talk about almost anything
+> How to make it safe to talk about almost anything
 
 - Step Out
 - Make It Safe
