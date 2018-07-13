@@ -1,6 +1,6 @@
 # Silence and Violence
 
-When people don't feel safe, they will move to Silence or Violence
+When people don't feel safe, they will move to Silence :speak_no_evil: or Violence :rage1:
 
 ## Silence
 
