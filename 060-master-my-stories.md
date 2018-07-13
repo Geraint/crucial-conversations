@@ -22,7 +22,7 @@ worried | cheap shots
 
 See & Hear -> Tell A Story -> Feel -> Act
 
-Mnemonic: 
+Mnemonic:
 ~~S.T.F.U.~~
 S.T.F.A.
 
