@@ -18,7 +18,7 @@
 
 The Path to Action model
 
-See -> Story -> Feel -> Act
+See :arrow_right: Story :arrow_right: Feel :arrow_right: Act
 
 - We're joining at the *end* of the Path to Action - in the Act phase
     - the other person is already in Silence or Violence
