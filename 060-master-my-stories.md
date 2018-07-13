@@ -11,10 +11,6 @@
 
 ## Feelings Drive Actions
 
-<div class="centered">
-
-![How Feelings Drive Actions](images/feel-act.png)
-
 Feel | Act
 ---- | ---
 hurt | silence
