@@ -73,7 +73,7 @@ See -> Story -> Feel -> Act
     - **P**araphrase
     - **P**rime
 - When you share your own view, remember
-- **A**rgee
-- **B**uild
-- **C**ompare
+    - **A**rgee
+    - **B**uild
+    - **C**ompare
 
