@@ -20,6 +20,14 @@ The Path to Action model
 
 See -> Story -> Feel -> Act
 
+- We're joining at the *end* of the Path to Action - in the Act phase
+    - the other person is already in Silence or Violence
+- *Break the cycle*
+    - we are conditioned to respond poorly
+    - we need to say calm, and get them to *tell their story*
+    - i.e. we need to get *them* to retrace *their* Path to Action
+    - this can help both parties to overcome negative emotions
+
 ## Inquiry Skills - AMPP
 
 - **A**sk
