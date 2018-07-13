@@ -51,7 +51,7 @@ See -> Story -> Feel -> Act
     - Don't turn subtle differences into a raging debate
     - If you agree, say so and move on
 - **B**uild
-    - If someone *left out an element* of an argument, agree with what they *have* said, and then build (and the missing part)
+    - If someone *left out an element* of an argument, agree with what they *have* said, and then build (add the missing part)
     - "Absolutely.  And in addition..."
 - **C**ompare
     - "I think I see things differently.  Let me describe how."
