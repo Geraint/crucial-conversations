@@ -86,7 +86,7 @@ Louis makes all the points, meets privately with boss | He doesn't trust me.  Th
 - We ignore the other person's good qualities
     - Labeling
 
-## Helpless Stores
+## Helpless Stories
 
 - There's nothing else I can do
 - Often stem from Villain Stories
