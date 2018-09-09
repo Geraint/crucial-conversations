@@ -26,8 +26,6 @@ Mnemonic:
 ~~S.T.F.U.~~
 S.T.F.A.
 
-</div>
-
 ## Example - Maria's Path to Action
 
 See & Hear | Tell A Story | Feel | Act
@@ -56,7 +54,7 @@ Louis makes all the points, meets privately with boss | He doesn't trust me.  Th
         - try to be accurate - don't just say "I feel bad" or "I feel angry" when you're actually feeling embarassed, suprised, or humliated
     - Tell Story - analyse your stories
         - ask yourself "what story is creating these emotions?"
-        - **most important point** - challenge the illusion that your story is the only possible interpration of the facts
+        - **most important point** - challenge the illusion that your story is the only possible interpretation of the facts
         - don't confuse stories with facts
     - See/Hear - get back to the facts
         - what evidence do I have to support this story?
@@ -88,7 +86,7 @@ Louis makes all the points, meets privately with boss | He doesn't trust me.  Th
 - We ignore the other person's good qualities
     - Labeling
 
-## Helpless Stores
+## Helpless Stories
 
 - There's nothing else I can do
 - Often stem from Villain Stories
